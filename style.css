@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: gray;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    font-weight: 600;
+    color: white;
+}
+#games{
+    background-color: black;
+}
+.line{
+    height: 15px;
+    background-color: white;
+    margin: 8px auto;
+}
+#game1{
+    width: 400px;
+    height: 400px;
+}
